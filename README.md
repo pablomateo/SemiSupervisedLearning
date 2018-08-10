@@ -2,8 +2,6 @@
 **Udacity - Artificial Intelligence Nanodegree Program**   
 AI - SemiSupervised GAN Model
 
-# SemiSupervisedLearning
-
 This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the necessary dependencies on a local machine or on AWS.
 
 Implementation of a **Semi-supervised GAN Model** in TensorFlow. Semi-supervised models are used when you only have a few labeled data points. These perform surprisingly well even though the amount of labeled data you have is relatively tiny.
